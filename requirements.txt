@@ -1,0 +1,6 @@
+urllib3
+requests
+pygit2
+pyyaml
+beautifulsoup4
+bs4
